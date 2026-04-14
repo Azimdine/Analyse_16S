@@ -50,7 +50,7 @@ library(ComplexHeatmap)
 ### set the work directory and set working environment###
 rm(list=ls(all=TRUE)) # go get a clean workspace
 
-setwd("/Users/ahabib/Documents/B16716_Patrick/partie_1/16S")
+setwd("/Users/16S")
 #getwd()
 
 taxFile="taxonomy_table.csv"
